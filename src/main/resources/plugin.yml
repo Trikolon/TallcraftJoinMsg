@@ -1,0 +1,8 @@
+ name: TallcraftJoinMsg
+ version: 1.0
+ description: Custom join and leave messages
+ author: Tallcraft
+ website: https://tallcraft.com
+ 
+ main: com.tallcraft.tallcraftjoinmsg.TallcraftJoinMsg
+ database: false

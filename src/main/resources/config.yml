@@ -1,0 +1,9 @@
+######################################################################################
+# The PLAYERNAME tag will be replaced with the name of the person joining the server.#
+######################################################################################
+
+# The message displayed when a player joins the server. Can use colour codes.
+message: '&7[+] PLAYERNAME'
+
+# The message displayed when a player leaves the server. Can use colour codes.
+leaveMessage: '&7[-] PLAYERNAME'
